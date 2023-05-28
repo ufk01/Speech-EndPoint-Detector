@@ -1,6 +1,6 @@
 # Speech-EndPoint-Detector
 This Python script provides a method for speech endpoint detection in audio recordings.
-The script identifies the starting and ending points of speech in order to facilitate further processing, analysis, or segmentation of speech segments within the audio.
+The script identifies the starting and ending points of speech in order to facilitate further processing, analysis, or segmentation of speech segments within the audio.\n
 **Usage:**
 To use the speech endpoint detection script, follow these steps:
 
