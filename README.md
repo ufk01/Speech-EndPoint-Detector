@@ -30,3 +30,21 @@ To use the speech endpoint detection script, follow these steps:
 -Additionally, the script prints the start and end times of the speech segment in seconds, allowing for precise identification of the speech duration within the audio recording.
 
 
+
+-The graph displays the speech waveform, magnitude, zero-crossing rate, and voice activity estimate. By analyzing this information, you can determine the exact segment of speech within the audio recording.
+
+
+
+
+-Please note that this script provides a basic implementation of speech endpoint detection and analysis. Depending on your specific requirements, you may need to customize the threshold values or incorporate additional techniques for more accurate results.
+
+
+
+
+-Feel free to experiment with different audio files and adjust the parameters to suit your needs.
+
+
+
+
+-I hope this script proves useful in your speech processing projects!
+
